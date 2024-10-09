@@ -1,8 +1,8 @@
 # Deacon Steiner
 # UWYO COSC 1010
-# Submission Date
-# Lab 03 
-# Lab Section: 
+# Submission Date 10./08/24
+# # Lab 05
+# Lab Section: 11
 # Sources, people worked with, help given to: 
 # TA approved code
 
